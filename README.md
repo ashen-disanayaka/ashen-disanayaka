@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashen_disanayaka
-- 👀 I’m interested in UI UX designer and flutter development
+- 👀 I’m interested in UI UX design and flutter development
 - 🌱 I’m currently work with front end development using flutter
 - 💞️ I’m looking to collaborate on good UI designer.
 - 📫 How to reach me 
