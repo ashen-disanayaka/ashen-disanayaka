@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/ashen-disanayaka-14b0b31b7/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LINKEDIN" height="50" width="50" />
 </a>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="blank">
+<a href="disanayakaaashen@gmail.com" target="blank">
 <img align="center" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="GMAIL" height="50" width="50" />
 </a>
 </p>
