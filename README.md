@@ -25,14 +25,14 @@
 </p>
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original-wordmark.svg](https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter" width="100" height="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" alt="nodejs" width="100" height="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original-wordmark.svg" alt="figma" width="100" height="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="100" height="100" />
 </p>
 <h3 align="center">Frontend Frameworks</h3>
 <p align="center">
+<img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter" width="100" height="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="REACT" width="100" height="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="NEXT.JS" width="100" height="100" />    
 </p>
@@ -58,6 +58,7 @@
 </p>
 <h3 align="center">Others</h3>
 <p align="center">
+<img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" alt="deta cloud" width="100" height="100" title="Deta Cloud"/> 
 <img src="https://www.deta.sh/dist/images/favicon.png" alt="deta cloud" width="100" height="100" title="Deta Cloud"/>
 <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="100" height="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="100" height="100"/>
